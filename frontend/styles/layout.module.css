@@ -1,0 +1,18 @@
+.layout {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 20px;
+}
